@@ -2,7 +2,8 @@
 
 👨🏻‍💻 About Me
 
-🎓 Hi, I’m @mitesh-barot, Full Stack Developer specializing in modern web technologies.
+# 🎓 Hi, I'm Mitesh Barot 👋
+Full Stack Developer | PHP | React.js | Next.js | Vue.js | Nuxt.js | Magento | WordPress | MongoDB | MySQL
 
 🛠️ Tech Stack
 
